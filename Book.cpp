@@ -1,6 +1,11 @@
 #include "Book.h"
 #include <algorithm>
 #include <cctype>
+// Name:         Thuy Nguyen
+// Program:      CSC 275 Program 2
+// Due Date:     10/19/24
+// Compiler:     Code Block
+// This file contains the implementation of the Book class.
 
 // Constructors
 Book::Book() : title(""), authorFirstName(""), authorLastName(""), ISBN(""), publisher("") {}
