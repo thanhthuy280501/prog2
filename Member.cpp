@@ -1,5 +1,10 @@
 #include "Member.h"
 #include <iostream>
+// Name:         Thuy Nguyen
+// Program:      CSC 275 Program 2
+// Due Date:     10/19/24
+// Compiler:     Code Block
+// This file implements the Member class.
 
 // Constructor to initialize the member with an empty borrowed book list
 Member::Member(const std::string& firstName, const std::string& lastName, int memberID)
