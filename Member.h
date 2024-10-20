@@ -3,6 +3,11 @@
 
 #include "Book.h"
 #include <string>
+// Name:         Thuy Nguyen
+// Program:      CSC 275 Program 2
+// Due Date:     10/19/24
+// Compiler:     Code Block
+// This file is for the Member class definition, which includes dynamic memory management for the list of borrowed books.
 
 class Member {
 private:
