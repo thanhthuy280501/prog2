@@ -2,7 +2,14 @@
 #include <string>
 #include "Book.h"
 #include "Member.h"
-# This is the main program file, which provides the user interface and integrates the Book and Member classes.
+
+// Name:         Thuy Nguyen
+// Program:      CSC 275 Program 2
+// Due Date:     10/19/24
+// Compiler:     Code Block
+// This is the main program file, which provides the user interface and integrates the Book and Member classes.
+
+
 void addBook(Book& book) {
     std::string title, authorFirst, authorLast, ISBN, publisher;
     std::cout << "Enter the book title: ";
