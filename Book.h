@@ -2,6 +2,11 @@
 #define BOOK_H
 
 #include <string>
+// Name:         Thuy Nguyen
+// Program:      CSC 275 Program 2
+// Due Date:     10/19/24
+// Compiler:     Code Block
+// This is the header file for the Book class.
 
 class Book {
 private:
